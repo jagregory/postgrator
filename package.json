@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "async": "0.2.x",
+    "debug": "^2.6.0",
     "mssql": "2.x.x",
     "mysql": "2.x.x",
     "newline": "0.0.3",
